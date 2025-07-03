@@ -1,3 +1,5 @@
+Hosting URL:https://qrgenby.web.app/
+
 ## วิธีเริ่มต้นใช้งาน
 
 1. **ติดตั้ง dependencies**
@@ -37,9 +39,3 @@
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Firebase Hosting](https://firebase.google.com/docs/hosting)
-
-## License
-
-MIT
-
----
