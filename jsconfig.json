@@ -1,6 +1,9 @@
 {
   "compilerOptions": {
     "paths": {
+      // This allows you to use absolute imports in your project
+      // ex. import { MyComponent } from '@/components/MyComponent';
+      // The '@' symbol is a common alias for the 'src' directory
       "@/*": ["./*"]
     }
   }
